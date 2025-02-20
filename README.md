@@ -28,7 +28,4 @@ This project is a **React + Node JS** application that Fetch Produts From Fake A
 
 ## 📸 Solution
 
-![Catalog](https://drive.google.com/uc?export=view&id=17L7Y14YEi13TTEqoKVKZODMdMp-oEQdo)
-
-![Cart](https://drive.google.com/uc?export=view&id=1FM3fCG7QGLJ70OzAN03U8NO_bAMmkaGY)
-
+![Solution](https://drive.google.com/uc?export=view&id=17L7Y14YEi13TTEqoKVKZODMdMp-oEQdo)
