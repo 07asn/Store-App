@@ -1,4 +1,3 @@
-// server.js
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
@@ -22,12 +21,10 @@ app.get('/api/products', async (req, res) => {
     }
 });
 
-// A simple route to verify the server is running
 app.get('/', (req, res) => {
     res.send('Express backend is up and running!');
 });
 
-// Start the server
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });

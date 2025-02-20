@@ -72,7 +72,7 @@ function Home() {
                                 </h2>
                                 <p className="text-sm text-gray-500 mb-2">{product.category}</p>
                                 <p className="text-xl font-bold text-red-600 mb-4">${product.price}</p>
-                                <button className="w-full bg-yellow-400 text-white py-2 px-4 rounded hover:bg-blue-700 transition-colors duration-300">
+                                <button className="w-full bg-yellow-400 text-white py-2 px-4 rounded hover:bg-yellow-400 transition-colors duration-300">
                                     View Details
                                 </button>
                             </div>
